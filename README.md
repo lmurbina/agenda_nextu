@@ -6,6 +6,8 @@
 
 > Desarrollada en Node.js y Mongodb como bases de datos
 
+> No subire la carpeta node_modules, simplemente hagan un **npm install** para que se instalen las dependencias en package.json
+
 > Espero les sirva de ayuda
 
 ## Librerias
